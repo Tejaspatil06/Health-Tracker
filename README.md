@@ -71,6 +71,14 @@ ng build
 ```
 The build artifacts will be stored in the `dist/` directory.
 
+## Testing 
+
+- Console Image
+![Console Log Image](https://github.com/Tejaspatil06/Health-Tracker/blob/main/public/log.png)
+
+- Coverage Testing
+![Console Log Image](https://github.com/Tejaspatil06/Health-Tracker/blob/main/public/coverage.png)
+  
 ## Deployment
 
 This application is deployed on [Vercel](https://vercel.com/tejaspatil06s-projects).  
